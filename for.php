@@ -1,7 +1,7 @@
 <?php
 
-$age = 5;
+$age = 18;
 
-for ($age=0; $age < 10 ; $age++) { 
-    echo $age;
+for ($age=0; $age <50 ; $age++) { 
+    echo 100 ."<br>";
 }
